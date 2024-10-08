@@ -1,0 +1,11 @@
+# ninja log v5
+4	909	1714145869679045921	CMakeFiles/homework1.dir/Triangle.cpp.o	c540c4c0fcc158e5
+1601	1641	1714145870415029694	homework1	de19f6d924e3b2ea
+4	1524	1714145870293261953	CMakeFiles/homework1.dir/main.cpp.o	ee9c08466596cc37
+4	1601	1714145870369521302	CMakeFiles/homework1.dir/rasterizer.cpp.o	1af00cf518f9b66a
+16	709	1714187499622398809	CMakeFiles/homework1.dir/Triangle.cpp.o	ea8c43bd8238e24c
+15	1249	1714187500163097258	CMakeFiles/homework1.dir/main.cpp.o	3b110bc08e016d1a
+16	1316	1714187500229465498	CMakeFiles/homework1.dir/rasterizer.cpp.o	f8ac11d7f12a55e4
+1316	1356	1714187500275136843	homework1	de19f6d924e3b2ea
+6	1436	1714192392269644662	CMakeFiles/homework1.dir/main.cpp.o	3b110bc08e016d1a
+1437	1557	1714192392393616465	homework1	de19f6d924e3b2ea
