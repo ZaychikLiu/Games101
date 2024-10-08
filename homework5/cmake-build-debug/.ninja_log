@@ -1,0 +1,5 @@
+# ninja log v5
+1	373	1715223607524961313	CMakeFiles/RayTracing.dir/Scene.cpp.o	54b89c1dba9a3c5a
+1	463	1715223607614534233	CMakeFiles/RayTracing.dir/Renderer.cpp.o	e73ee8578f569166
+475	509	1715223607662962684	RayTracing	d1b69f1d90814bcd
+1	475	1715223607626357897	CMakeFiles/RayTracing.dir/main.cpp.o	9ef52274b077709b

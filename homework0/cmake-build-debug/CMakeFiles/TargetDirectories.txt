@@ -1,0 +1,3 @@
+/Users/zaychik/c++/Games101/homework0/cmake-build-debug/CMakeFiles/main.dir
+/Users/zaychik/c++/Games101/homework0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zaychik/c++/Games101/homework0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
